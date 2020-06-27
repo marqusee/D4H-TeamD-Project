@@ -1,9 +1,9 @@
 # OaklandCodeEnforcement
 
 Research Question: What is the relationship between code enforocement complaints and structural racism? More specifically, what is the relationship between:
-                      1) Housing habitability complaints and race/ethcnicity, primary language spoken at home, poverty, overcrowding?
-                      2) Housing habitability complaints and corporate owned rental housing?
-                      3) Blight/zoning complaints and gentrification?
+1) Housing habitability complaints and race/ethcnicity, primary language spoken at home, poverty, overcrowding?
+2) Housing habitability complaints and corporate owned rental housing?
+3) Blight/zoning complaints and gentrification?
 
 Data sets: Oakland Code Enforcement Data (https://aca.accela.com/OAKLAND/Welcome.aspx), Alameda County Address Data (https://data.acgov.org/datasets/86b6da3837a34f10b8493ea0d22f517a?showData=true), real estate transaction data (proprietary)
 
