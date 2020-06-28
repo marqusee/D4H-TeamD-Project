@@ -4,8 +4,9 @@ Research Question: What is the relationship between code enforocement complaints
 1) Housing habitability complaints and race/ethcnicity, primary language spoken at home, poverty, overcrowding?
 2) Housing habitability complaints and corporate owned rental housing?
 3) Blight/zoning complaints and gentrification?
+4) Blight/zoning compliants and vacant units and lots?
 
-Data sets: Oakland Code Enforcement Data (https://aca.accela.com/OAKLAND/Welcome.aspx), Alameda County Address Data (https://data.acgov.org/datasets/86b6da3837a34f10b8493ea0d22f517a?showData=true), real estate transaction data (proprietary)
+Data sets: Oakland Code Enforcement Data (https://aca.accela.com/OAKLAND/Welcome.aspx), Alameda County Address Data (https://data.acgov.org/datasets/86b6da3837a34f10b8493ea0d22f517a?showData=true), EBMUD water usage data (offline), real estate transaction data (proprietary)
 
 Methods:
 1) Create automated data cleaning tool for Oakland's code enforcement data
