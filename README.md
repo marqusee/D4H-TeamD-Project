@@ -21,4 +21,4 @@ End products:
 2) Visualizations of relationships and exploratory data analysis through a 'story map' style website.
 3) Policy Brief on implications.
     
-Team: @marqusee, @nmontojo and @emmafuish completed during the 2020 UC Berkleey Data For Housing Class.
+Team: @marqusee, @nmontojo, @emmafuish, and @DarrellOwensRCD  completed during the 2020 UC Berkleey Data For Housing Class.
