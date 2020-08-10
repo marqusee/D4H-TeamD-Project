@@ -1,7 +1,9 @@
-The research problem:
+H# The research problem:
+
 Poor housing quality leads to poor health outcomes for renters in the City of Oakland, and the inequitable way in which this issue affects communities tends to be reflective of structural racism. Currently, the City of Oakland primarily responds to this issue via citizen complaints about housing habitability. It is likely that certain areas complain less about housing habitability due to a variety of factors, such as fear with respect to immigration status, language access, comfort with accessing city services, fear of landlord retribution, and other structural inequalities that prevent access. The City is working on a proactive enforcement system to provide equitable services but lacks a firm grounding in data.
 
-The research question is:
+H# The research question is:
+
 What is the relationship between housing quality and structural racism in Oakland? More specifically:
 What are the different characteristics of census tracts with low and high levels of housing habitability complaints? Are complaints most related to building characteristics or are race/ethnicity and other socioeconomic factors more significant?
 Relevant data: race/ethnicity, income, rent burden, primary language spoken at home, poverty, overcrowding, building type, “legal units”
