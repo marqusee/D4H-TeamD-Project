@@ -12,7 +12,7 @@ Poor housing quality leads to poor health outcomes for renters in the City of Oa
 For context, the Alameda County Department of Public Health has asked for an analysis of the types of housing that have the most housing habitability complaints (i.e. number of units in building, age of building, and location of building) to improve program design and advocacy for a new inspection program. Our hypothesis is that neighborhoods where there are large Latinx populations have disproportionately lower levels of housing habitability complaints compared to places with similar building types. People who are most likely to be impacted by housing habitability issues are often less likely to complain.
 
 ## The data sets are:
-- ACS 5 year sample for SES data by census tract (2013-2018)
+- ACS 5 year sample for SES data by census tract (2014-2018)
 - City of Oakland housing habitability complaints. https://aca.accela.com/OAKLAND/Welcome.aspx
 
 The method will be:
